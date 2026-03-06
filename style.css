@@ -1,0 +1,22 @@
+.slidev-layout {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-size: cover;
+}
+
+.slidev-page {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* Alternative: Dark gradient */
+/* 
+.slidev-layout {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+}
+*/
+
+/* Alternative: Subtle gradient */
+/*
+.slidev-layout {
+  background: linear-gradient(135deg, #434343 0%, #000000 100%);
+}
+*/
